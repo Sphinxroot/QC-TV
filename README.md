@@ -1,1 +1,1 @@
-# QC-TV  Kodi Seuelement
+# QC-TV  Kodi Seulement
