@@ -5,7 +5,7 @@
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CiYlVJb.png",★★★★★★★★★★[COLOR mediumblue]Quebec[/COLOR]★★★★★★★★★★
 plugin://plugin.video.youtube/play/?video_id=AnhHhm7_ppU
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2yzoMZR.jpg",MAJ: 13/04/24
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2yzoMZR.jpg",MAJ: 14/07/24
 plugin://plugin.video.youtube/play/?video_id=t7Ix1-hmJSo
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/laNoumZ.jpg",Hymne du Quebec - National Anthem of Quebec (YT)
@@ -95,21 +95,18 @@ plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCupiuMa4oN_pQ
 # https://www.noovo.ca/en-direct
 #EXTINF:-1 tvg-id="Noovo.ca" tvg-logo="https://i.imgur.com/uAnHJPd.png" group-title="Généraliste",CFJP-DT - Noovo (Addon Noovo) (Non 24/7)
 plugin://plugin.video.vtele/?url=direct&sourceUrl=direct
-#EXTINF:-1 tvg-id="Noovo.ca" tvg-logo="https://i.imgur.com/uAnHJPd.png" group-title="Généraliste",CFJP-DT - Noovo
-https://webudit.webhd.ru/lb/premium835/index.m3u8|Referer=https://weblivehdplay.ru/premiumtv/daddylivehd.php?id=835
-
-#EXTINF:-1 tvg-id="Noovo.ca" tvg-logo="https://i.imgur.com/uAnHJPd.png" group-title="Généraliste",CFJP-DT - Noovo (Audio)
-https://pe-fa-lp03a.9c9media.com/live/NOOVO/p/hls/00000201/716cf4c845225692/manifest.m3u8
-#EXTINF:-1 tvg-id="Noovo.ca" tvg-logo="https://i.imgur.com/uAnHJPd.png" group-title="Généraliste",CFJP-DT - Noovo (Video)
-https://pe-fa-lp03a.9c9media.com/live/NOOVO/p/hls/00000201/716cf4c845225692/index/de22f34f/live/stream/h264/v1/3500000/manifest.m3u8
-#EXTINF:-1 tvg-id="Noovo.ca" tvg-logo="https://i.imgur.com/uAnHJPd.png" group-title="Généraliste",CFJP-DT - Noovo (test)
-https://raw.githubusercontent.com/Sphinxroot/HSL/main/Noovo.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/84ScGxt.png" group-title="Réréalité",Noovo Téléréalités
+https://d29qczaufx5vc3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-dxg2k6h0o2l6i/Noovo_Telerealites.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7rZhGIl.png" group-title="Comedie",Noovo Comédies
+https://d2s8iafdyzconc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6x2p3ho0vw00a/Noovo_Comedies_Home.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FNzVlkT.png" group-title="Film",Noovo Cinéma
+https://dk4ogs46bjxcw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xr1ct045l70mz/Noovo_Cinema.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0c4Sl5z.png" group-title="Quebec TV",Reseau sismique du Quebec (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCO3BwNN_1uT00Nd7pGKoyDA/live
 
 # http://teleculturelle.com/
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FsN8wuu.png" group-title="Culturelle",Télé Culturelle Médias (TCM-TV) (SLT)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FsN8wuu.png" group-title="Culturelle",Télé Culturelle Médias (TCM-TV) (SLT) kodi 18.9
 plugin://plugin.video.streamlink-tester/?action=play&url=https://player.castr.com/live_79b37a4032dd11ed85c9d9bece7b557e
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FsN8wuu.png" group-title="Culturelle",Télé Culturelle Médias (TCM-TV)
 https://stream.castr.com/631f9bb9ecbe28ce6910385a/live_79b37a4032dd11ed85c9d9bece7b557e/index.m3u8|Referer=https://player.castr.com/live_79b37a4032dd11ed85c9d9bece7b557e
@@ -142,11 +139,8 @@ https://rtmptv.rncm.ca/hls/cfem/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6L78Knq.jpg" group-title="Généraliste",CHOT-DT - TVA Gatineau–Ottawa (Non 24/7)
 https://rtmptv.rncm.ca/hls/chot/live.m3u8
 
-# https://www.qub.ca/tvaplus/temoin/en-direct
-#EXTINF:-1 tvg-id="Témoin.ca" tvg-logo="https://i.imgur.com/ydf6WFN.jpeg" group-title="Thématique",Témoin (En Débrouillage)
-https://temoindirect.akamaized.net/no/V-MOICIE/V-MOICIE.isml/V-MOICIE.m3u8
-#EXTINF:-1 tvg-id="Témoin.ca" tvg-logo="https://i.imgur.com/ydf6WFN.jpeg" group-title="Thématique",Témoin (En Débrouillage) (Addon TVA+)
-plugin://plugin.infologique.TVAgo/?url=ref%3Atva_6348290074112&sourceUrl=ref%3Atva_6348290074112
+
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/N4Fp1ur.jpg" group-title="",VVS Films Québec (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC5gfYXsS_p1EV5e42a2RKjQ/live
@@ -200,11 +194,11 @@ plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCCY1ZdEVlbTvp
 # https://csur.tv/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5Pq17aU.jpg" group-title="Communautaire",Csur la télé ch 1 - Vaudreuil-Dorion (1080p)
 https://stream.castr.com/655a9019e6c4692b56396b6d/live_f88ae0808c9911ee9d20297cbe04ce6d/index.fmp4.m3u8|Referer=https://player.castr.com/
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5Pq17aU.jpg" group-title="Communautaire",Csur la télé ch 1 - Vaudreuil-Dorion  (1080p) (SLT)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5Pq17aU.jpg" group-title="Communautaire",Csur la télé ch 1 - Vaudreuil-Dorion  (1080p) (SLT) kodi 18.9
 plugin://plugin.video.streamlink-tester/?action=play&url=https://player.castr.com/live_f88ae0808c9911ee9d20297cbe04ce6d
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5Pq17aU.jpg" group-title="Communautaire",Csur la télé ch 2 - Vaudreuil-Dorion  (1080p)
 https://stream.castr.com/655a9019e6c4692b56396b6d/live_ee53b1d08d9511ee89c1a3cd362d5ce1/index.fmp4.m3u8|Referer=https://player.castr.com/
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5Pq17aU.jpg" group-title="Communautaire",Csur la télé ch 2 - Vaudreuil-Dorion  (1080p) (SLT)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5Pq17aU.jpg" group-title="Communautaire",Csur la télé ch 2 - Vaudreuil-Dorion  (1080p) (SLT) kodi 18.9
 plugin://plugin.video.streamlink-tester/?action=play&url=https://player.castr.com/live_ee53b1d08d9511ee89c1a3cd362d5ce1
 
 # https://ctbtv.ca/ #
@@ -242,7 +236,7 @@ plugin://plugin.video.sendtokodi/?https://www.twitch.tv/tvctklive
 # https://www.tvrs.ca/tvrs-en-direct/ 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/w9XCbWX.jpg" group-title="Communautaire",TVRS - Longueuil (1080p)
 https://stream.castr.com/63bf0d473321d4909a3876ad/live_d6983bc091e611edbddd7fe8982d8daf/index.fmp4.m3u8|Referer=https://player.castr.com/
-#EXTINF:-1 tvg-logo="https://i.imgur.com/w9XCbWX.jpg" group-title="Communautaire",TVRS - Longueuil (1080p) (SLT)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w9XCbWX.jpg" group-title="Communautaire",TVRS - Longueuil (1080p) (SLT) kodi 18.9
 plugin://plugin.video.streamlink-tester/?action=play&url=https://player.castr.com/live_d6983bc091e611edbddd7fe8982d8daf
 
 # http://temis.tv
@@ -524,7 +518,7 @@ https://tvalive.akamaized.net/hls/live/2014213/tvan01/tvan01.m3u8|X-Forwarded-Fo
 #EXTINF:-1 tvg-id="TeleQuebec.ca" tvg-logo="https://i.imgur.com/8R4EaFu.png" group-title="Généraliste",Télé Québec (Adaptative)
 https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/6101674910001/playlist.m3u8|X-Forwarded-For=24.37.42.200
 #EXTINF:-1 tvg-id="TVA.ca" tvg-name="TVA CA" tvg-logo="https://i.imgur.com/AvJwjcQ.jpg" group-title="Généraliste",TVA (Adaptative)
-https://tvalive-nondai.akamaized.net/Content/HLS/Live/channel(a7315e07-037c-12a8-bdc8-da7bd513da9d)/index.m3u8|X-Forwarded-For=24.37.42.200
+https://tvalive-dai01.akamaized.net/Content/HLS/Live/channel(575b93c5-be31-ee34-6285-14620fd14048)/index.m3u8|X-Forwarded-For=24.37.42.200
 
 ####
 
@@ -541,9 +535,19 @@ https://tvalcn.akamaized.net/hls/live/2013847/tvalcn01/med_720p/med_720p.m3u8
 EXTINF:-1 tvg-logo="https://i.imgur.com/BWsxm4p.png" group-title="Quebec TV",MOI ET CIE (OFFLINE)
 https://chaine_tva_uls-lh.akamaihd.net/i/MOIETCIE_1@697478/master.m3u8
 
+# https://www.qub.ca/tvaplus/temoin/en-direct
+EXTINF:-1 tvg-id="Témoin.ca" tvg-logo="https://i.imgur.com/ydf6WFN.jpeg" group-title="Thématique",Témoin (En Débrouillage)
+https://temoindirect.akamaized.net/no/V-MOICIE/V-MOICIE.isml/V-MOICIE.m3u8
+EXTINF:-1 tvg-id="Témoin.ca" tvg-logo="https://i.imgur.com/ydf6WFN.jpeg" group-title="Thématique",Témoin (En Débrouillage) (Addon TVA+)
+plugin://plugin.infologique.TVAgo/?url=ref%3Atva_6348290074112&sourceUrl=ref%3Atva_6348290074112
+
+# https://www.qub.ca/tvaplus/zeste/en-direct
+EXTINF:-1 tvg-id="Zeste.ca" tvg-logo="https://i.imgur.com/YVmkt8p.png" group-title="Cuisine",Zeste (En Debrouillage)
+https://vmediazeste.akamaized.net/no/V-ZESTE/V-ZESTE.isml/V-ZESTE.m3u8
+EXTINF:-1 tvg-id="Zeste.ca" tvg-logo="https://i.imgur.com/YVmkt8p.png" group-title="Cuisine",Zeste (En Debrouillage) (Addon TVA+)
+plugin://plugin.infologique.TVAgo/?url=ref%3Atva_6311644419112&sourceUrl=ref%3Atva_6311644419112
 EXTINF:-1 tvg-logo="https://i.imgur.com/YVmkt8p.png" group-title="Cuisine",Zeste (En Debrouillage)
 https://ctszeste.akamaized.net/Content/HLS/Live/channel(bdfda20c-b73f-e8fc-8e12-e010830aa276)/index.m3u8
-
 EXTINF:-1 tvg-logo="https://i.imgur.com/YVmkt8p.png" group-title="Quebec TV",Zeste (OFFLINE)
 https://chaine_tva_uls-lh.akamaihd.net/i/zeste01_1@853162/master.m3u8
 
