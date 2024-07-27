@@ -5,7 +5,7 @@
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CiYlVJb.png",★★★★★★★★★★[COLOR mediumblue]Quebec[/COLOR]★★★★★★★★★★
 plugin://plugin.video.youtube/play/?video_id=AnhHhm7_ppU
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2yzoMZR.jpg",MAJ: 14/07/24
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2yzoMZR.jpg",MAJ: 27/07/24
 plugin://plugin.video.youtube/play/?video_id=t7Ix1-hmJSo
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/laNoumZ.jpg",Hymne du Quebec - National Anthem of Quebec (YT)
@@ -121,7 +121,7 @@ plugin://plugin.video.telequebec/?url=live&sourceId=live
 
 # https://www.youtube.com/user/ctmq # https://tele-mag.tv/
 #EXTINF:-1 tvg-id="tele-mag.ca" tvg-logo="https://i.imgur.com/i5Isrob.png" group-title="Thématique",CHMG-DT - Télé-Mag Québec (STK) (Non 24/7)
-plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCNKXYT-Nng5LBMUQrZJ9zWA/live
+plugin://plugin.video.sendtokodi/?https://www.twitch.tv/telemagtv
 
 # https://www.qub.ca/tvaplus/tva/en-direct
 #EXTINF:-1 tvg-id="TVA.ca" tvg-logo="https://i.imgur.com/AvJwjcQ.jpg" group-title="Généraliste",CFTM-DT - TVA (Adaptative)
@@ -202,10 +202,6 @@ https://stream.castr.com/655a9019e6c4692b56396b6d/live_ee53b1d08d9511ee89c1a3cd3
 plugin://plugin.video.streamlink-tester/?action=play&url=https://player.castr.com/live_ee53b1d08d9511ee89c1a3cd362d5ce1
 
 # https://ctbtv.ca/ #
-#EXTINF:-1 tvg-id="ctbtv.ca" tvg-logo="https://i.imgur.com/NaVvSUk.png" group-title="Communautaire",CTB-TV - Ville de Saint-Gabriel (1080p)
-https://fl001.elpcinc.com/CTB-TV/index.m3u8
-#EXTINF:-1 tvg-id="ctbtv.ca" tvg-logo="https://i.imgur.com/NaVvSUk.png" group-title="Communautaire",CTB-TV - Ville de Saint-Gabriel (1080p)
-https://fl001.elpcinc.com/CTB-TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ctbtv.ca" tvg-logo="https://i.imgur.com/NaVvSUk.png" group-title="Communautaire",CTB-TV - Ville de Saint-Gabriel (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCE9UCGH15M9HRQQqe_3C0jw/live
 
