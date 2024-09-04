@@ -203,7 +203,7 @@ plugin://plugin.video.streamlink-tester/?action=play&url=https://player.castr.co
 
 # https://ctbtv.ca/ #
 #EXTINF:-1 tvg-id="ctbtv.ca" tvg-logo="https://i.imgur.com/NaVvSUk.png" group-title="Communautaire",CTB-TV - Ville de Saint-Gabriel (STK)
-plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCE9UCGH15M9HRQQqe_3C0jw/live
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCnLHq8falZ_amWrLZx72t3g/live
 
 # https://mediat.ca/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JrTIE6n.png" group-title="Communautaire",MédiAT - Amos (STK) (Non 24/7)
