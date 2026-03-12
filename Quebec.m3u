@@ -5,7 +5,7 @@
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CiYlVJb.png",★★★★★★★★★★[COLOR mediumblue]Quebec[/COLOR]★★★★★★★★★★
 plugin://plugin.video.youtube/play/?video_id=AnhHhm7_ppU
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2yzoMZR.jpg",MAJ: 03/09/24
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2yzoMZR.jpg",MAJ: 12/03/26
 plugin://plugin.video.youtube/play/?video_id=t7Ix1-hmJSo
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/laNoumZ.jpg",Hymne du Quebec - National Anthem of Quebec (YT)
@@ -84,6 +84,9 @@ https://tvalive.akamaized.net/hls/live/2014213/tvan01/audio_0_eng.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5PHhaOa.jpg" group-title="Actualités",Le Devoir (STK) (lorsque diffusion) 
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCVSWLtm3ijS-rTwa__Ww2Rg/live
 
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA3500005NS_20260303T094703SQUARE.png" group-title="", FilmRise Canadien
+https://d4eg0ibr16eq6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-49ptn4qeieap5/master.m3u8?useRelativeUrls=true&skipBeacons=true&declaredCC1Language=en&ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.service_id=CA3500005NS
+
 # http://greektimes.ca/greektv/
 #EXTINF:-1 tvg-id="MontrealGreekTV.ca" tvg-logo="https://i.imgur.com/eNu3N0f.png" group-title="Multiculturel",Montreal Greek TV
 http://live.greektv.ca/hls1/greektv.m3u8
@@ -115,9 +118,9 @@ https://stream.castr.com/631f9bb9ecbe28ce6910385a/live_79b37a4032dd11ed85c9d9bec
 #EXTINF:-1 tvg-id="TeleQuebec.ca" tvg-logo="https://i.imgur.com/8R4EaFu.png" group-title="Généraliste",CIVM-DT - Télé Québec (Adaptative)
 https://bcovlive-a.akamaihd.net/b7988e7f33b34cf2bf86a766afcadd3c/us-west-2/6101674910001/playlist_wv.m3u8
 
-# https://www.youtube.com/user/ctmq # https://tele-mag.tv/
-#EXTINF:-1 tvg-id="tele-mag.ca" tvg-logo="https://i.imgur.com/i5Isrob.png" group-title="Thématique",CHMG-DT - Télé-Mag Québec (STK) (Non 24/7)
-plugin://plugin.video.sendtokodi/?https://www.twitch.tv/telemagtv
+# https://tele-mag.tv/
+#EXTINF:-1 tvg-id="tele-mag.ca" tvg-logo="https://i.imgur.com/i5Isrob.png" group-title="Thématique",CHMG-DT - Télé-Mag Québec
+https://web-cdn.sogetel.net:8443/CLTMAG/CLTMAG.m3u8|Referer=https://tele-mag.tv/
 
 # https://www.qub.ca/tvaplus/tva/en-direct
 #EXTINF:-1 tvg-id="TVA.ca" tvg-logo="https://i.imgur.com/AvJwjcQ.jpg" group-title="Généraliste",CFTM-DT - TVA (Adaptative)
@@ -129,14 +132,11 @@ plugin://plugin.infologique.TVAgo/?url=ref%3Atva_6341717443112&sourceUrl=ref%3At
 
 # https://tvaabitibi.ca/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uKYAJ7V.png" group-title="Généraliste",CFEM-DT - TVA Abitibi-Témiscamingue (Non 24/7)
-https://rtmptv.rncm.ca/hls/cfem/live.m3u8
+https://customer-xsskltppyocula8d.cloudflarestream.com/db16b4165fbb5ce861044721409d38fc/manifest/video.m3u8|Referer=https://tvaabitibi.ca/
 
 # https://tvagatineau.ca/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6L78Knq.jpg" group-title="Généraliste",CHOT-DT - TVA Gatineau–Ottawa (Non 24/7)
-https://rtmptv.rncm.ca/hls/chot/live.m3u8
-
-
-
+https://customer-xsskltppyocula8d.cloudflarestream.com/db16b4165fbb5ce861044721409d38fc/manifest/video.m3u8|Referer=https://tvagatineau.ca/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/N4Fp1ur.jpg" group-title="",VVS Films Québec (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC5gfYXsS_p1EV5e42a2RKjQ/live
@@ -556,4 +556,5 @@ plugin://plugin.video.youtube/play/?video_id=biCCb0EB3g4
 
 EXTINF:-1 tvg-logo="https://i.imgur.com/ybwFuvq.png" group-title="",The Quebec Clock (YT)
 plugin://plugin.video.youtube/play/?video_id=WHhzK7k22q0
+
 
