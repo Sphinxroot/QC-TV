@@ -5,7 +5,7 @@
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CiYlVJb.png",★★★★★★★★★★[COLOR mediumblue]Quebec[/COLOR]★★★★★★★★★★
 plugin://plugin.video.youtube/play/?video_id=AnhHhm7_ppU
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2yzoMZR.jpg",MAJ: 12/03/26
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2yzoMZR.jpg",MAJ: 05/04/26
 plugin://plugin.video.youtube/play/?video_id=t7Ix1-hmJSo
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/laNoumZ.jpg",Hymne du Quebec - National Anthem of Quebec (YT)
@@ -29,8 +29,9 @@ https://citynewsregional.akamaized.net/hls/live/553720/CityNews-Montreal/master.
 #EXTINF:-1 tvg-logo="https://i.imgur.com/H1Lojkh.jpg" group-title="Thématique",DerriereleVolant.net (STK) (Non 24/7)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCSiM-2Rl7d95puhwt0gUL-w/live
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DDTuhkS.png" group-title="Films",Encan Horreur Fanatik (tous les samedis soirs, 18h à minuit!) (480p)
-https://svbell-hls.secdn.net/svbell-live/play/mp4:HFanatik/playlist.m3u8
+# https://horreurfanatik.myshopify.com/pages/encan
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DDTuhkS.png" group-title="Films",Encan Horreur Fanatik (STK) (tous les samedis soirs, 18h à minuit!)
+plugin://plugin.video.sendtokodi/?https://www.twitch.tv/horreur_fanatik
 
 #EXTINF:-1 tvg-id="GlobalNewsMontreal.ca" tvg-logo="https://i.imgur.com/0vLVIWr.jpg" group-title="Actualités",CKMI-DT - Global News Montreal (720p)
 https://live.corusdigitaldev.com/groupa/live/6bfb7f13-9d9d-4211-9c50-fb56330e4ccd/live.isml/.m3u8
@@ -71,6 +72,8 @@ https://rcavlive.akamaized.net/hls/live/704019/cancbkft/master_3000.m3u8
 https://rcavlive.akamaized.net/hls/live/704020/cancbxft/master_3000.m3u8
 #EXTINF:-1 tvg-id="ICIRadioCanadaCB-Yukon.ca" tvg-logo="https://i.imgur.com/bfqHfNX.png" group-title="Généraliste",CBUFT-DT - ICI Radio-Canada Télé Colombie-Britannique - Yukon (Vancouver) (720p)
 https://rcavlive.akamaized.net/hls/live/704017/cancbuft/master_3000.m3u8
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC2300010E4_20250121T095226SQUARE.png" group-title="Actualités",Radio-Canada INFO
+https://d2pe0mcuntasoo.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-haex9tv0eft0g/Radio-Canada_INFO.m3u8?ads.device_did=%7BPSID%7D
 
 # https://icitelevision.ca/ https://fr.wikipedia.org/wiki/CFHD-DT
 #EXTINF:-1 tvg-id="ICITelevisionMontreal.ca" tvg-logo="https://i.imgur.com/i3xFNPE.png" group-title="Généraliste",CFHD-DT - ICI TV (720p)
@@ -85,7 +88,7 @@ https://tvalive.akamaized.net/hls/live/2014213/tvan01/audio_0_eng.m3u8
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCVSWLtm3ijS-rTwa__Ww2Rg/live
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA3500005NS_20260303T094703SQUARE.png" group-title="", FilmRise Canadien
-https://d4eg0ibr16eq6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-49ptn4qeieap5/master.m3u8?useRelativeUrls=true&skipBeacons=true&declaredCC1Language=en&ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.service_id=CA3500005NS
+https://d4eg0ibr16eq6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-49ptn4qeieap5/master.m3u8?ads.device_did=%7BPSID%7D
 
 # http://greektimes.ca/greektv/
 #EXTINF:-1 tvg-id="MontrealGreekTV.ca" tvg-logo="https://i.imgur.com/eNu3N0f.png" group-title="Multiculturel",Montreal Greek TV
@@ -98,9 +101,9 @@ plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCupiuMa4oN_pQ
 # https://www.noovo.ca/en-direct
 #EXTINF:-1 tvg-id="Noovo.ca" tvg-logo="https://i.imgur.com/uAnHJPd.png" group-title="Généraliste",CFJP-DT - Noovo (Addon Noovo) (Non 24/7)
 plugin://plugin.video.vtele/?url=direct&sourceUrl=direct
-#EXTINF:-1 tvg-logo="https://i.imgur.com/84ScGxt.png" group-title="Réréalité",Noovo Téléréalités
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1400006BZ_20260117T020540SQUARE.png" group-title="Crime",Noovo Crime
 https://d29qczaufx5vc3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-dxg2k6h0o2l6i/Noovo_Telerealites.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7rZhGIl.png" group-title="Comedie",Noovo Comédies
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1300001DN_20260303T094741SQUARE.png" group-title="Comedie",Noovo Ça c’est drôle
 https://d2s8iafdyzconc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6x2p3ho0vw00a/Noovo_Comedies_Home.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FNzVlkT.png" group-title="Film",Noovo Cinéma
 https://dk4ogs46bjxcw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xr1ct045l70mz/Noovo_Cinema.m3u8
@@ -109,8 +112,6 @@ https://dk4ogs46bjxcw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCO3BwNN_1uT00Nd7pGKoyDA/live
 
 # http://teleculturelle.com/
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FsN8wuu.png" group-title="Culturelle",Télé Culturelle Médias (TCM-TV) (SLT) kodi 18.9
-plugin://plugin.video.streamlink-tester/?action=play&url=https://player.castr.com/live_79b37a4032dd11ed85c9d9bece7b557e
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FsN8wuu.png" group-title="Culturelle",Télé Culturelle Médias (TCM-TV)
 https://stream.castr.com/631f9bb9ecbe28ce6910385a/live_79b37a4032dd11ed85c9d9bece7b557e/index.m3u8|Referer=https://player.castr.com/live_79b37a4032dd11ed85c9d9bece7b557e
 
@@ -150,25 +151,13 @@ plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCMZiT0umFpHmK
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bItk5a8.jpg" group-title="Sports",PatinVitesseQC Centre de glaces Intact Assurance (STK) (Non 24/7)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCfxsdqbjfbGb5cxZB00Kl0g/live
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xWOFj4U.jpg" group-title="Sports",RDS
-https://webudit.webhd.ru/lb/premium839/index.m3u8|Referer=https://weblivehdplay.ru/premiumtv/daddylivehd.php?id=839
-#EXTINF:-1 tvg-logo="https://i.imgur.com/meFix5p.jpg" group-title="Sports",RDS 2
-https://webudit.webhd.ru/lb/premium840/index.m3u8|Referer=https://weblivehdplay.ru/premiumtv/daddylivehd.php?id=840
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yAYOjFG.jpg" group-title="Sports",RDS Info
-https://webudit.webhd.ru/lb/premium841/index.m3u8|Referer=https://weblivehdplay.ru/premiumtv/daddylivehd.php?id=841
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/r9NJW2L.jpg" group-title="Sports",rdsca (STK) (Non 24/7)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC9JZPWL5qLWyDbIUCA4g-mQ/live
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t5rroKn.png" group-title="Sports",TVA Sports 1 (Addon TVA+)
 plugin://plugin.infologique.TVAgo/?url=ref%3ATVASports_1_BO_VMedia&sourceUrl=ref%3ATVASports_1_BO_VMedia
-#EXTINF:-1 tvg-logo="https://i.imgur.com/t5rroKn.png" group-title="Sports",TVA Sports 1
-https://webudit.webhd.ru/lb/premium833/index.m3u8|Referer=https://weblivehdplay.ru/premiumtv/daddylivehd.php?id=833
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t5rroKn.png" group-title="Sports",TVA Sports 2 (Addon TVA+)
 plugin://plugin.infologique.TVAgo/?url=ref%3ATVASports_2_BO_VMedia&sourceUrl=ref%3ATVASports_2_BO_VMedia
-#EXTINF:-1 tvg-logo="https://i.imgur.com/t5rroKn.png" group-title="Sports",TVA Sports 2
-https://webudit.webhd.ru/lb/premium834/index.m3u8|Referer=https://weblivehdplay.ru/premiumtv/daddylivehd.php?id=834
 
 #EXTINF:-1 tvg-logo="https://s2.dmcdn.net/v/T8H5O1ZBqGxQonsL1/x240" group-title="Sports",Patinage Québec Glace 1 (STK) (Non 24/7)
 plugin://plugin.video.sendtokodi/?https://www.dailymotion.com/video/x82yo9k
@@ -190,12 +179,8 @@ plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCCY1ZdEVlbTvp
 # https://csur.tv/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5Pq17aU.jpg" group-title="Communautaire",Csur la télé ch 1 - Vaudreuil-Dorion (1080p)
 https://stream.castr.com/655a9019e6c4692b56396b6d/live_f88ae0808c9911ee9d20297cbe04ce6d/index.fmp4.m3u8|Referer=https://player.castr.com/
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5Pq17aU.jpg" group-title="Communautaire",Csur la télé ch 1 - Vaudreuil-Dorion  (1080p) (SLT) kodi 18.9
-plugin://plugin.video.streamlink-tester/?action=play&url=https://player.castr.com/live_f88ae0808c9911ee9d20297cbe04ce6d
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5Pq17aU.jpg" group-title="Communautaire",Csur la télé ch 2 - Vaudreuil-Dorion  (1080p)
 https://stream.castr.com/655a9019e6c4692b56396b6d/live_ee53b1d08d9511ee89c1a3cd362d5ce1/index.fmp4.m3u8|Referer=https://player.castr.com/
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5Pq17aU.jpg" group-title="Communautaire",Csur la télé ch 2 - Vaudreuil-Dorion  (1080p) (SLT) kodi 18.9
-plugin://plugin.video.streamlink-tester/?action=play&url=https://player.castr.com/live_ee53b1d08d9511ee89c1a3cd362d5ce1
 
 # https://ctbtv.ca/ #
 #EXTINF:-1 tvg-id="ctbtv.ca" tvg-logo="https://i.imgur.com/NaVvSUk.png" group-title="Communautaire",CTB-TV - Ville de Saint-Gabriel (STK)
@@ -228,8 +213,6 @@ plugin://plugin.video.sendtokodi/?https://www.twitch.tv/tvctklive
 # https://www.tvrs.ca/tvrs-en-direct/ 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/w9XCbWX.jpg" group-title="Communautaire",TVRS - Longueuil (1080p)
 https://stream.castr.com/63bf0d473321d4909a3876ad/live_d6983bc091e611edbddd7fe8982d8daf/index.fmp4.m3u8|Referer=https://player.castr.com/
-#EXTINF:-1 tvg-logo="https://i.imgur.com/w9XCbWX.jpg" group-title="Communautaire",TVRS - Longueuil (1080p) (SLT) kodi 18.9
-plugin://plugin.video.streamlink-tester/?action=play&url=https://player.castr.com/live_d6983bc091e611edbddd7fe8982d8daf
 
 # http://temis.tv
 #EXTINF:-1 tvg-id="TVTémis.ca" tvg-logo="https://i.imgur.com/eRfMFrK.png"group-title="Communautaire",TV Témis - Notre-Dame-du-Nord (STK)
@@ -550,11 +533,3 @@ EXTINF:-1 tvg-logo="https://i.imgur.com/8z9I7DC.png" group-title="",Évasion (En
 plugin://plugin.infologique.TVAgo/?url=ref%3Atva_6309386882112&sourceUrl=ref%3Atva_6309386882112
 
 ####
-
-EXTINF:-1 tvg-logo="https://i.imgur.com/sFDP4p7.png" group-title="",The Montreal Clock (YT)
-plugin://plugin.video.youtube/play/?video_id=biCCb0EB3g4
-
-EXTINF:-1 tvg-logo="https://i.imgur.com/ybwFuvq.png" group-title="",The Quebec Clock (YT)
-plugin://plugin.video.youtube/play/?video_id=WHhzK7k22q0
-
-
