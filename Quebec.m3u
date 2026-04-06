@@ -25,10 +25,6 @@ https://cbcrclinear-tor.akamaized.net/hls/live/2042761/CBCRCLINEAR_TOR_7/master5
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jMaP3wK.png" group-title="Actualités",CJNT-DT - CityNews Montreal 6pm a 11pm (Non 24/7)
 https://citynewsregional.akamaized.net/hls/live/553720/CityNews-Montreal/master.m3u8
 
-# https://www.derrierelevolant.net/tele
-#EXTINF:-1 tvg-logo="https://i.imgur.com/H1Lojkh.jpg" group-title="Thématique",DerriereleVolant.net (STK) (Non 24/7)
-plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCSiM-2Rl7d95puhwt0gUL-w/live
-
 # https://horreurfanatik.myshopify.com/pages/encan
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DDTuhkS.png" group-title="Films",Encan Horreur Fanatik (STK) (tous les samedis soirs, 18h à minuit!)
 plugin://plugin.video.sendtokodi/?https://www.twitch.tv/horreur_fanatik
@@ -218,6 +214,38 @@ https://stream.castr.com/63bf0d473321d4909a3876ad/live_d6983bc091e611edbddd7fe89
 #EXTINF:-1 tvg-id="TVTémis.ca" tvg-logo="https://i.imgur.com/eRfMFrK.png"group-title="Communautaire",TV Témis - Notre-Dame-du-Nord (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCdppqXtvbns2vdI-eWlbQpw/live
 
+# https://tvhr9.com/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n35xxjN.jpeg" group-title="Communautaire",TVHR Télévision du Haut-Richelieu (STK) (Non 24/7)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCVqoQj0O1Xzt1ri2B3hClZg/live
+
+# http://www.telesoleil.com/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CccGyQl.jpeg" group-title="Communautaire",TVS Télé-Soleil l'Est de la Haute-Gaspésie (STK) (Non 24/7)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCbe0wwu7hjpcyF4-VDi8Ctg/live
+
+# https://www.telerocherperce.tv/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K3FkrYh.jpeg" group-title="Communautaire",TVRP La Télé Du Rocher Percé (STK) (Non 24/7)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCeCAAJn_FtQ4S5bgLz8nYMg/live
+
+# https://www.tvcbf.tv/regarder/en-direct
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dBA9d5R.jpeg" group-title="Communautaire", TVCBF Télévision Communautaire des Bois-Francs
+https://detroit.tkdsstream.com/tvcbf1/streams/tvcbf1.m3u8
+
+# https://tvcotv.com/en-direct/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/skNhC8e.jpeg" group-title="Communautaire",TVCO Television de Charlevoix Ouest (STK) (Non 24/7)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCFiRLkR3qDXFR0IulJWszlA/live
+
+# https://tele-charlevoix.com/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F9emgnj.jpeg" group-title="Communautaire",TVC-VM Télé-Charlevoix Télévision communautaire Vents et Marées (STK) (Non 24/7)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC1fdFiYLg3EcxrJijxgJlvw/live
+
+# https://cjsrtv.com/web-tele
+#EXTINF:-1 tvg-logo="https://i.imgur.com/joy9omD.png" group-title="Communautaire",CJSR Télévision communautaire la Portneuvoise (Non 24/7)
+https://detroit.tkdsstream.com/CJSR/streams/CJSR1.m3u8
+
+# https://www.television-du-littoral-inc.com/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FbbNMkQ.jpeg" group-title="Communautaire",TVL La Télévision du Littoral (STK) Non 24/7)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCmPspYPV5JvZRaeK7WnZTng/live
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2yzoMZR.jpg" ,★★★★★★★★★★[COLOR mediumblue]Radio/Musique[/COLOR]★★★★★★★★★★
 0.0.0.0
 
@@ -344,10 +372,6 @@ plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCCm3eAbiTKAow
 #EXTINF:-1 tvg-logo="https://i.imgur.com/N7JMyFL.png" group-title="Affaires Publiques",OCPM (lorsque diffusion)
 https://5976193b91256.streamlock.net/live/canal325.smil/playlist.m3u8
 
-# https://telegaspe.ca
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zbmk5wd.jpg" group-title="Affaires Publiques",Télé-Gaspé (STK) (Non 24/7)
-plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCjc4KzaBWz4FwyYL9N5uRGA/live
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O8Vs2I9.jpg" group-title="Affaires Publiques",Ville de Alma (STK) (Non 24/7)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCyzhllULjCifNrOCi7Q6jnQ/live
 
@@ -457,6 +481,10 @@ plugin://plugin.video.youtube/play/?video_id=FxZnGW0XthA
 # https://www.youtube.com/channel/UCctt0Z9jZmroUDCjaq4YZ1Q
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t3oduj1.jpg" group-title="",Ovni Quebec Astronomie (YT) (OFFLINE)
 plugin://plugin.video.youtube/play/?video_id=mjbAK-Au4uI
+
+# https://www.derrierelevolant.net/tele
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H1Lojkh.jpg" group-title="Thématique",DerriereleVolant.net (STK) (Non 24/7) (OFFLINE)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCSiM-2Rl7d95puhwt0gUL-w/live
 
 ####
 
