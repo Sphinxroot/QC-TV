@@ -5,7 +5,7 @@
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CiYlVJb.png",★★★★★★★★★★[COLOR mediumblue]Quebec[/COLOR]★★★★★★★★★★
 plugin://plugin.video.youtube/play/?video_id=AnhHhm7_ppU
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2yzoMZR.jpg",MAJ: 05/04/26
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2yzoMZR.jpg",MAJ: 06/04/26
 plugin://plugin.video.youtube/play/?video_id=t7Ix1-hmJSo
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/laNoumZ.jpg",Hymne du Quebec - National Anthem of Quebec (YT)
@@ -181,10 +181,6 @@ https://stream.castr.com/655a9019e6c4692b56396b6d/live_ee53b1d08d9511ee89c1a3cd3
 # https://ctbtv.ca/ #
 #EXTINF:-1 tvg-id="ctbtv.ca" tvg-logo="https://i.imgur.com/NaVvSUk.png" group-title="Communautaire",CTB-TV - Ville de Saint-Gabriel (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCnLHq8falZ_amWrLZx72t3g/live
-
-# https://mediat.ca/
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JrTIE6n.png" group-title="Communautaire",MédiAT - Amos (STK) (Non 24/7)
-plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCj7mjJ8KYA7tLly9RUAb6XA/live
 
 # https://tvrm.ca/en-direct/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PesK1io.jpg" group-title="Communautaire",Télévision Régionale des Moulins - Terrebonne (STK) (Non 24/7)
@@ -485,6 +481,10 @@ plugin://plugin.video.youtube/play/?video_id=mjbAK-Au4uI
 # https://www.derrierelevolant.net/tele
 #EXTINF:-1 tvg-logo="https://i.imgur.com/H1Lojkh.jpg" group-title="Thématique",DerriereleVolant.net (STK) (Non 24/7) (OFFLINE)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCSiM-2Rl7d95puhwt0gUL-w/live
+
+# https://mediat.ca/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JrTIE6n.png" group-title="Communautaire",MédiAT - Amos (STK) (Non 24/7) (OFFLINE)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCj7mjJ8KYA7tLly9RUAb6XA/live
 
 ####
 
