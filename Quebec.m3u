@@ -5,7 +5,7 @@
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CiYlVJb.png",★★★★★★★★★★[COLOR mediumblue]Quebec[/COLOR]★★★★★★★★★★
 plugin://plugin.video.youtube/play/?video_id=AnhHhm7_ppU
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2yzoMZR.jpg",MAJ: 06/04/26
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2yzoMZR.jpg",MAJ: 08/07/26
 plugin://plugin.video.youtube/play/?video_id=t7Ix1-hmJSo
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/laNoumZ.jpg",Hymne du Quebec - National Anthem of Quebec (YT)
@@ -70,6 +70,12 @@ https://rcavlive.akamaized.net/hls/live/704020/cancbxft/master_3000.m3u8
 https://rcavlive.akamaized.net/hls/live/704017/cancbuft/master_3000.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC2300010E4_20250121T095226SQUARE.png" group-title="Actualités",Radio-Canada INFO
 https://d2pe0mcuntasoo.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-haex9tv0eft0g/Radio-Canada_INFO.m3u8?ads.device_did=%7BPSID%7D
+# https://ici.tou.tv/en-direct/54524
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/TxCWM5Q.jpeg" group-title="",La chaîne Jeunesse (720p) [Geo-blocked]
+https://amagi-streams.akamaized.net/hls/live/2120485/rcjeunesse/master.m3u8|Referer=https://ici.tou.tv/
+# https://ici.tou.tv/en-direct/54523
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/mb1bZTP.jpeg" group-title="",La chaîne L'Agent Jean! (720p) [Geo-blocked]
+https://amagi-streams.akamaized.net/hls/live/2120486/rclagentjean/master.m3u8|Referer=https://ici.tou.tv/
 
 # https://icitelevision.ca/ https://fr.wikipedia.org/wiki/CFHD-DT
 #EXTINF:-1 tvg-id="ICITelevisionMontreal.ca" tvg-logo="https://i.imgur.com/i3xFNPE.png" group-title="Généraliste",CFHD-DT - ICI TV (720p)
