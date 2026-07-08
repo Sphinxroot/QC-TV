@@ -1,4 +1,4 @@
-# QC-TV  Kodi Seulement
+# QC-TV  Kodi Seulement sur PlaylistLoader
 
 pour les liens plugin://plugin.video.sendtokodi/?
 utilisez cette version /  param a youtube-dl
