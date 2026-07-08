@@ -23,7 +23,8 @@ https://cbcrclinear-tor2.akamaized.net/hls/live/20000034/CBCRCLINEAR_TOR_ETM/mas
 
 # https://montreal.citynews.ca/video/2017/08/29/watch-citynews-montreal/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jMaP3wK.png" group-title="Actualités",CJNT-DT - CityNews Montreal 6pm a 11pm (Non 24/7)
-https://citynewsregional.akamaized.net/hls/live/553720/CityNews-Montreal/master.m3u8
+https://dai.google.com/linear/hls/event/v6WfM9eaSjeioOsT6I2q3g/master.m3u8|Referer=https://montreal.citynews.ca/
+#https://citynewsregional.akamaized.net/hls/live/553720/CityNews-Montreal/master.m3u8
 
 # https://horreurfanatik.myshopify.com/pages/encan
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DDTuhkS.png" group-title="Films",Encan Horreur Fanatik (STK) (tous les samedis soirs, 18h à minuit!)
