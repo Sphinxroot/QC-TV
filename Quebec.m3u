@@ -19,7 +19,7 @@ plugin://plugin.video.youtube/play/?video_id=5tIuEe-uKBE
 https://hls.savoir.media/live/stream.m3u8
 
 #EXTINF:-1 tvg-id="CBCCBMTMontreal.ca" tvg-logo="https://i.imgur.com/AeVRfbB.png" group-title="Actualités",CBMT-DT - CBC Montreal (720p)
-https://cbcrclinear-tor.akamaized.net/hls/live/2042761/CBCRCLINEAR_TOR_7/master5.m3u8
+https://cbcrclinear-tor2.akamaized.net/hls/live/20000034/CBCRCLINEAR_TOR_ETM/master_3000.m3u8
 
 # https://montreal.citynews.ca/video/2017/08/29/watch-citynews-montreal/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jMaP3wK.png" group-title="Actualités",CJNT-DT - CityNews Montreal 6pm a 11pm (Non 24/7)
