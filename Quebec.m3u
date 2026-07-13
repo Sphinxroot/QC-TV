@@ -90,7 +90,7 @@ https://tvalive.akamaized.net/hls/live/2014213/tvan01/audio_0_eng.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5PHhaOa.jpg" group-title="Actualités",Le Devoir (STK) (lorsque diffusion) 
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCVSWLtm3ijS-rTwa__Ww2Rg/live
 
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA3500005NS_20260303T094703SQUARE.png" group-title="", FilmRise Canadien
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA3500005NS_20260303T094703SQUARE.png" group-title="Films", FilmRise Canadien
 https://d4eg0ibr16eq6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-49ptn4qeieap5/master.m3u8?ads.device_did=%7BPSID%7D
 
 # http://greektimes.ca/greektv/
@@ -109,7 +109,7 @@ plugin://plugin.video.vtele/?url=direct&sourceUrl=direct
 https://d29qczaufx5vc3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-dxg2k6h0o2l6i/Noovo_Telerealites.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1300001DN_20260303T094741SQUARE.png" group-title="Comedie",Noovo Ça c’est drôle
 https://d2s8iafdyzconc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6x2p3ho0vw00a/Noovo_Comedies_Home.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FNzVlkT.png" group-title="Film",Noovo Cinéma
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FNzVlkT.png" group-title="Films",Noovo Cinéma
 https://dk4ogs46bjxcw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xr1ct045l70mz/Noovo_Cinema.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0c4Sl5z.png" group-title="Quebec TV",Reseau sismique du Quebec (STK)
