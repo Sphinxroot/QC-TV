@@ -113,7 +113,7 @@ plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCO3BwNN_1uT00
 
 # http://teleculturelle.com/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FsN8wuu.png" group-title="Culturelle",Télé Culturelle Médias (TCM-TV)
-https://teleculturelle.vedge.infomaniak.com/livecast/ik:teleculturelle/manifest.m3u8
+https://teleculturelle.vedge.infomaniak.com/livecast/ik:teleculturelle/manifest.m3u8|Referer=https://player.infomaniak.com/
 
 # https://zonevideo.telequebec.tv/endirect/
 #EXTINF:-1 tvg-id="TeleQuebec.ca" tvg-logo="https://i.imgur.com/8R4EaFu.png" group-title="Généraliste",CIVM-DT - Télé Québec (Adaptative)
