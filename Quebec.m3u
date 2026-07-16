@@ -35,10 +35,6 @@ https://live.corusdigitaldev.com/groupa/live/6bfb7f13-9d9d-4211-9c50-fb56330e4cc
 
 #EXTINF:-1 tvg-id="ICIRadioCanadaRDI.ca" tvg-logo="https://i.imgur.com/Bb1ZiR6.jpg" group-title="Actualités",ICI RDI (Adaptative)
 https://rcavlive.akamaized.net/hls/live/704026/canrdi/master.m3u8
-#EXTINF:-1 tvg-id="ICIRadioCanadaRDI.ca" tvg-logo="https://i.imgur.com/Bb1ZiR6.jpg" group-title="Actualités",ICI RDI (Adaptative) (OPT-2)
-https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
-#EXTINF:-1 tvg-id="ICIRadioCanadaRDI.ca" tvg-logo="https://i.imgur.com/Bb1ZiR6.jpg" group-title="Actualités",ICI RDI (Audio)
-https://rcavlive.akamaized.net/hls/live/704026/canrdi/master_dv.m3u8
 
 # https://ici.radio-canada.ca/tele
 #EXTINF:-1 tvg-id="ICIRadioCanadaAcadie.ca" tvg-logo="https://i.imgur.com/3TlTIrd.png" group-title="Généraliste",CBAFT-DT - ICI Radio-Canada Télé Acadie (Moncton) (720p)
